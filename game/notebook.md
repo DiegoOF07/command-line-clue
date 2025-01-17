@@ -7,7 +7,7 @@
 
 ## Weapons
 - [ ] Glass Bottle
-- [ ] Garden Shears
+- [x] Garden Shears
 - [x] Bronze Trophy
 
 ## Notes
@@ -17,5 +17,5 @@
 - I found the crime scene at the bakery
 - I found the doctor in the storage, very close to the crime scene
 - I found the Bronze Trophy in the park
-
+- I found the Garden shears 
 Location of the crime is still unknown - the room must have been empty when it happened...
